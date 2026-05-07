@@ -1,0 +1,6 @@
+P001 | Organic Granola Milk | A healthy mix of oats, nuts and dried fruits | 20.25
+P002 | Spicy Sriracha Nuts | Roasted nuts coated in a bold, spicy sriracha seasoning | 12.35
+P003 | Vegan Protein Bars | Gluten-free bars packed with plant-based protein and natural flavors | 29.25
+P004 | Matcha Green Tea | Premium ceremonial-grade matcha powder for lattes or baking | 42.75
+P005 | Artisanal Dark Chocolate | Handcrafted dark chocolate with 70% cocoa and a hint of sea salt | 10.00
+P006 | Organic Coffee | Premium coffee beans | 15.90
